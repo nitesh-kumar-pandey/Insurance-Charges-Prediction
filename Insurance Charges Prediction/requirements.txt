@@ -1,0 +1,14 @@
+click
+numpy
+pandas
+seaborn
+colorama
+Flask
+itsdangerous
+Jinja2
+MarkupSafe
+matplotlib
+gunicorn
+pickleshare
+scikit-learn==1.3.0
+Werkzeug
